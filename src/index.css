@@ -36,3 +36,7 @@ audio {
   position: absolute;
   right: 1px;
 }
+.App {
+  height:auto;
+  overflow: auto;
+}
